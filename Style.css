@@ -1,0 +1,27 @@
+.clear {clear:both;}
+header {
+  width: 960px;
+  height: 120px;
+  background-color:black;
+}
+.header-text {
+  font-size:20px;
+  text-align:left;
+  color:white;
+  line-height:120px;
+}
+header ul li {
+  display: inline;
+  padding: 0 10px;
+}
+header ul li a {
+  color:white;
+}
+table, th, td {
+  border: 1px solid black;
+}
+footer {
+  width:960px;
+  height:100px;
+  background-color:skyblue;
+}
